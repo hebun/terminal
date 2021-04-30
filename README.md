@@ -11,3 +11,6 @@ A basic TUI(terminal user interface ) for Java. It works on "sane" terminal mode
       ter.print("inside the block");
       ter.flush();
 this code will print this. 
+![Alt text](ss.png?raw=true "SS")
+
+
